@@ -35,3 +35,5 @@ With `mode=REPLACE all=1 pattern=nginx.org", you will replace all occurences of 
 ```
 
 Check conf/middleclick/middleclick-tcp-ids.click for the other modes, HTTP support to remove/replace/insert content, even with different sizes, etc...
+
+<!-- Auto-update: 2025-10-17T12:08:35.673815 -->
